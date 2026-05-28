@@ -1,3 +1,5 @@
+<img width="1920" height="480" alt="Summer" src="https://github.com/user-attachments/assets/d1fdb4db-70af-48c3-9dea-950a04a1fc64" />
+
 # resume
 A current copy of my resume
 
