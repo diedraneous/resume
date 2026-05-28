@@ -8,17 +8,18 @@ Professor, IT/IS Specialist, Cat Lady
 
 > "The enemy of success isn't failure, it's inaction" -- Alice Tapper
 
-Table of Contents
-[Education](#Education)
+Table of Contents </br>
+1.0 [Education](#Education)
 
 
-##Education
-// Education //
+## Education
+// 1.0 Education //
 PhD Information Assurance and Security, Capella University, 2020
 MS Network Management, Keller Graduate School, 2010
 MS Information Systems Management [Information Security Concentration], 2010
 BS Software Development, Westwood College, 2007
 
+## Certifications 
 // Certifications [Alphabet Soup] //
 CompTIA: A+, Net+, Security+, Pentest+, CIOS, 
 Microsoft: MCP, MCTS Web Apps (.Net 2.0), MCTS Desktop Apps (.NET 2.0)
