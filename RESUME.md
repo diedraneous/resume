@@ -9,9 +9,9 @@ A current copy of my resume</br>
 <img width="25%" height="25%" alt="PorfessionalPhoto2025" src="https://github.com/user-attachments/assets/9252a055-08a2-4f90-9ce0-6bcc2506c4eb" />
 
 
-> "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br> </br>
+> "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br> 
 
-<b>Table of Contents</b> </br>
+</br><b>Table of Contents</b> </br>
 1.0 [Education](#Education)</br>
 2.0 [Certifications](#Certifications)</br> </br>
 
