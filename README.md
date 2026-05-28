@@ -6,7 +6,7 @@ A current copy of my resume
 **** Dr. Gerri Roberts ****
 Professor, IT/IS Specialist, Cat Lady
 
-"The enemy of success isn't failure, it's inaction" -- Alice Tapper
+<blockqoute>"The enemy of success isn't failure, it's inaction" -- Alice Tapper</blockqoute>
 
 
 // Education //
