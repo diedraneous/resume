@@ -11,9 +11,9 @@ Professor, IT/IS Specialist, Cat Lady</br>
 
 > "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br>
 
-Table of Contents </br>
-1.0 [Education](#Education)
-2.0 [Certifications](#Certifications)
+<b>Table of Contents</b> </br>
+1.0 [Education](#Education)</br>
+2.0 [Certifications](#Certifications)</br> </br>
 
 
 ## Education
