@@ -13,17 +13,18 @@ Professor, IT/IS Specialist, Cat Lady</br>
 
 Table of Contents </br>
 1.0 [Education](#Education)
+2.0 [Certifications](#Certifications)
 
 
 ## Education
-// 1.0 Education //
+// 1.0 Education //</br>
 PhD Information Assurance and Security, Capella University, 2020 </br>
 MS Network Management, Keller Graduate School, 2010 </br>
 MS Information Systems Management [Information Security Concentration], 2010 </br>
 BS Software Development, Westwood College, 2007</br>
 
 ## Certifications 
-// Certifications [Alphabet Soup] // </br>
+// 2.0 Certifications [Alphabet Soup] // </br>
 CompTIA: A+, Net+, Security+, Pentest+, CIOS, </br>
 Microsoft: MCP, MCTS Web Apps (.Net 2.0), MCTS Desktop Apps (.NET 2.0) </br>
 Palo Alto: </br>
