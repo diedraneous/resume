@@ -4,12 +4,12 @@
 A current copy of my resume</br>
 
 <h2> :rosette: Dr. Gerri Roberts :rosette: </h2></br>
-Professor, IT/IS Specialist, Cat Lady</br>
+<i>Professor, IT/IS Specialist, Cat Lady</i></br>
 
 <img width="25%" height="25%" alt="PorfessionalPhoto2025" src="https://github.com/user-attachments/assets/9252a055-08a2-4f90-9ce0-6bcc2506c4eb" />
 
 
-> "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br>
+> "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br> </br>
 
 <b>Table of Contents</b> </br>
 1.0 [Education](#Education)</br>
