@@ -8,7 +8,11 @@ Professor, IT/IS Specialist, Cat Lady
 
 > "The enemy of success isn't failure, it's inaction" -- Alice Tapper
 
+Table of Contents
+[Education](#Education)
 
+
+##Education
 // Education //
 PhD Information Assurance and Security, Capella University, 2020
 MS Network Management, Keller Graduate School, 2010
