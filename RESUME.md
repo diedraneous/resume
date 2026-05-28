@@ -3,7 +3,7 @@
 # Resume
 A current copy of my resume</br>
 
-<title>:rosette: Dr. Gerri Roberts :rosette:</title></br>
+<title> :rosette: Dr. Gerri Roberts :rosette: </title></br>
 Professor, IT/IS Specialist, Cat Lady</br>
 
 <img width="25%" height="25%" alt="PorfessionalPhoto2025" src="https://github.com/user-attachments/assets/9252a055-08a2-4f90-9ce0-6bcc2506c4eb" />
