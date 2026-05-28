@@ -1,12 +1,12 @@
 <img width="1920" height="480" alt="Summer" src="https://github.com/user-attachments/assets/d1fdb4db-70af-48c3-9dea-950a04a1fc64" />
 
 # Resume
-A current copy of my resume
+A current copy of my resume</br>
 
-**** Dr. Gerri Roberts ****
-Professor, IT/IS Specialist, Cat Lady
+**** Dr. Gerri Roberts ****</br>
+Professor, IT/IS Specialist, Cat Lady</br>
 
-> "The enemy of success isn't failure, it's inaction" -- Alice Tapper
+> "The enemy of success isn't failure, it's inaction" -- Alice Tapper </br>
 
 Table of Contents </br>
 1.0 [Education](#Education)
@@ -17,7 +17,7 @@ Table of Contents </br>
 PhD Information Assurance and Security, Capella University, 2020
 MS Network Management, Keller Graduate School, 2010
 MS Information Systems Management [Information Security Concentration], 2010
-BS Software Development, Westwood College, 2007
+BS Software Development, Westwood College, 2007</br>
 
 ## Certifications 
 // Certifications [Alphabet Soup] //
