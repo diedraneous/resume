@@ -1,7 +1,7 @@
 <img width="1920" height="480" alt="Summer" src="https://github.com/user-attachments/assets/d1fdb4db-70af-48c3-9dea-950a04a1fc64" />
 
 # Resume\Curriculum Vitae
-A current copy of my resume\Curriculum Vitae</br>
+A current copy of my Resume\Curriculum Vitae</br>
 
 <h2> :rosette: Dr. Gerri Roberts :rosette: </h2></br>
 <i>Professor, IT/IS Specialist, Cat Lady</i></br>
